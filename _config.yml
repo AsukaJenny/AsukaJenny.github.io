@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "About me"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "2nd Year MS in Applied Statistics@UM, currently applying for Stats/Information Science/Survey Science PhD in 23 Fall"
   location         : "Ann Arbor, MI"
   employer         :
   researchgate     : "https://www.researchgate.net/profile/Yumiao-Hui-2"
@@ -101,11 +101,9 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :"https://www.linkedin.com/in/yumiaohui/"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "JennyHwei04"
