@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "About me"
-  avatar           : "profile.jpg"
-  bio              : "2nd Year MS in Applied Statistics@UM, currently applying for Stats/Information Science/Survey Science PhD in 23 Fall"
+  avatar           : "self.jpg"
+  bio              : "2nd Year MS in Applied Statistics@UM, looking for Stats/Information Science/Survey Science PhD in 23 Fall"
   location         : "Ann Arbor, MI"
   employer         :
   researchgate     : "https://www.researchgate.net/profile/Yumiao-Hui-2"
