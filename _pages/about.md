@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Nice to meet you! 你好! こにちわ! 👋"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,22 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My name is Yumiao and I'm a 2nd year Applied Statistics MS student at University of Michigan. I have studyed less than 4 months to get JLPT N2 Level Certificate with no prior knowledge after my undergraduate graduation in Sun Yat-sen University(中山大学) with Bachelor of Science degree in Information & Computing Science(信息与计算科学). I enjoy music especially J-pop, movies and anime(アニメ)/manga(マンガ), novels by Agatha Christie/Haruki Murakami(村上春樹). Besides, I like soccer best and I am fan of FC Bayern Munich and DFB more than 10 years. 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+News Updates
+------
+[11/07/22] 📢 Right now I'm on my way starting the 23Fall PhD application cycle, and I'm also anticipating the incoming exicting 2022 FIFA World Cup, which is simultaneous with my own application as well and both are exicting! 🏆
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Research Interest
+------
+In general, I'm interested in cross-disciplinary research: Applications, Combinations & Intersections of Statistics, Information Science, Data Science and Survey Data Analysis, with a focus on Social Science/Education fields. To be specific, I list these 4 concentrations as follows:(although I think some of them are overlapped)
+1. Statistics: Machine Learning; Statistical Consulting; Sampling; Experiment Design
+2. Information Science: Social Network Analysis; Computional Social Science; Education Learning Technology; Science, Technology, and Society 
+3. Data Science: Recommendation Systems; Natural Language Processing;
+4. Survey Data Analysis: Survey Design & Data Collection; Survey Data Mangagement; Analysis of Complex Survey Data; Missing Data Imputation
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Last but not least, I believe my future research & work will make a meaningful contribution to promote Diversity, Equity & Inclusion in the community and I will spare no effort to fulfill my duty.
 
 Site-wide configuration
 ------
@@ -47,4 +46,7 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+I'm always happy to learn more from communication, please feel free to contact me at *jennyhwei04* at *gmail* dot com!
+
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=280&t=m&d=1Zl140kYTvWEcNclLL-HAxtiEpzcvCsW_4uuVB1TFpk&co=16bace&cmo=ff53b2'></script>
