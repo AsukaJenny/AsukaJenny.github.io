@@ -33,4 +33,4 @@ For more info
 I'm always happy to learn more from communication, please feel free to contact me at *jennyhwei04* at *gmail* dot com!
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=280&t=m&d=1Zl140kYTvWEcNclLL-HAxtiEpzcvCsW_4uuVB1TFpk&co=16bace&cmo=ff53b2'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=m&d=1Zl140kYTvWEcNclLL-HAxtiEpzcvCsW_4uuVB1TFpk&co=2da7ad'></script>
