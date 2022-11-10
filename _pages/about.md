@@ -26,10 +26,3 @@ In general, I'm interested in cross-disciplinary research: Applications, Combina
 4. Survey Data Analysis: Survey Design & Data Collection; Survey Data Mangagement; Analysis of Complex Survey Data; Missing Data Imputation
 
 Last but not least, I believe my future research & work will make meaningful contributions to promote Diversity, Equity & Inclusion in the community and I will spare no effort to fulfill my duty.
-
-
-For more info
-------
-I'm always happy to learn more from communication, please feel free to contact me at *jennyhwei04* at *gmail* dot com!
-
-<a href='https://clustrmaps.com/site/1br7y'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=200&t=m&d=1Zl140kYTvWEcNclLL-HAxtiEpzcvCsW_4uuVB1TFpk&co=01007c'/></a>
