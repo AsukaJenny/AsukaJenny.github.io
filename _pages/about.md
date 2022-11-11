@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nice to meet you! 您好! こにちわ! 👋"
+title: "Greetings from Yumiao~ 您好! こにちわ! 👋"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
