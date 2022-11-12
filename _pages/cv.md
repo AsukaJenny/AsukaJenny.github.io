@@ -18,38 +18,20 @@ Education
 
 Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2022: Graduate Student Consultant at CSCAR, University of Michigan
+* Fall 2022: MI-LSAMP Research Assistant, University of Michigan
+* Summer 2022: CEW+ Research Assistant, University of Michigan
+* Winter 2022: Bibliometric Network Research Associate, University of Michigan
+* Fall 2019: Research Assistant at School of Data and Computer Science, Sun Yat-sen University
   
 
 Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: Business Intelligience Intern, Shared Services Center, University of Michigan
+* Spring 2021: IT Solution Intern, Capgemini, Shenyang, China
+* Winter 2019: Data Analysis Intern, EY, Guangzhou, China
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -70,4 +52,9 @@ Teaching & Mentoring
   
 Service & Leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2019 Summer: Part-time Assistant, Remote, Boston Consulting Group
+    * Assisted with desk research, making cold calls and collecting first-hand product information through interviews
+* 2017, 2018 Summer: Alumini Association Student Assistant, Sun-yat sen University
+    * Mentored 100+ students to interview alumni over 20+ cities
+    * Collected materials and archived documents
+
