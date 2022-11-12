@@ -1,16 +1,61 @@
 ---
 title: "Bibliometrics Network Analysis"
-excerpt: "Short description of portfolio item number 1<br/><img src= '/images/keyword.png'>"
+excerpt: "Focus on 1972-2022 Pressure Ulcers or Pressure Injury or Decub Publications<br/><img src= '/images/keyword.png'>"
 collection: portfolio
 ---
+- Co-authorship Country Network 
+
+<iframe
+  allowfullscreen="true"
+  src="https://app.vosviewer.com/?json=https://drive.google.com/uc?id=1XRpR3DEM4JLKKZBlsPd1VJJPqcAbLT0F"
+  width="100%"
+  height="75%"
+  style="border: 1px solid #ddd; max-width: 500px; min-height: 300px"
+>
+</iframe>
+
+- Citation Journals Network 
+
+<iframe
+  allowfullscreen="true"
+  src="https://app.vosviewer.com/?json=https://drive.google.com/uc?id=1d-Ks7uDVpAhOVfwEPDwwQrsv0QVxLr-y"
+  width="100%"
+  height="75%"
+  style="border: 1px solid #ddd; max-width: 500px; min-height: 300px"
+>
+</iframe>
+
+- Co-occurrence Keywords Network
 
 <iframe
   allowfullscreen="true"
   src="https://app.vosviewer.com/?json=https://drive.google.com/uc?id=10fUgNWD5PglX28PoTlj9LIbHr-7e-RoZ"
   width="100%"
   height="75%"
-  style="border: 1px solid #ddd; max-width: 1200px; min-height: 500px"
+  style="border: 1px solid #ddd; max-width: 500px; min-height: 300px"
+  >
+</iframe>
+
+
+- Co-citation Documents Network 
+
+<iframe
+  allowfullscreen="true"
+  src="https://app.vosviewer.com/?json=https://drive.google.com/uc?id=1UFngh8-PskPSqL6pRtIqqRZsCbQM134W"
+  width="100%"
+  height="75%"
+  style="border: 1px solid #ddd; max-width: 500px; min-height: 300px"
 >
 </iframe>
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+- Bibliographic Coupling Documents Network 
+
+<iframe
+  allowfullscreen="true"
+  src="https://app.vosviewer.com/?json=https://drive.google.com/uc?id=10oONpYALVfRW3IexYr14tetzP3PHW7_f"
+  width="100%"
+  height="75%"
+  style="border: 1px solid #ddd; max-width: 500px; min-height: 300px"
+>
+</iframe>
+
