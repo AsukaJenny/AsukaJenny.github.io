@@ -1,7 +1,20 @@
 ---
-title: "Portfolio item number 3"
-excerpt: "Short description of portfolio item number 3 <br/><img src='/images/500x300.png'>"
+title: "Network-based Movie Recommendation"
+excerpt: "Ongoing project, focus on network structure based recommendation algorithms for MovieLens 1M <br/><img src='/images/n1.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. new!!!!
+<ol>
+  <li><b>Research Question and Motivation</b></li>
+  Since we know networks could contain various features, it could contain various information as well. The main goal is that we want to learn network based recommendation algorithms and discover how well the performance of network based recommendation algorithms on various features is better than traditional classical recommendation algorithms like collaborative(user/item filtering), Personal Rank (random walk) for our interest data like user rating of movies.
+  <li>
+      <b>Current Network Analysis</b>
+    <ul>
+      <li>Power Law for User-Movie Bipartite Graph? NO!</li>
+      <img src='/images/pw.png'>
+    </ul>
+  </li>
+  <li><b>Further Network Analysis</b></li>
+  We intend to continue our analysis with Graph Convolutional Network (GCN), which is a semi-supervised learning approach on graph-structured data. By applying convolutional neural networks on graphs, the convolutional architecture is renewed  via a localized first-order approximation of spectral graph convolutions. Then classification can be conducted to such nodes in preparation of recommendation to users. Another optional algorithm is random walk. A network will be built based on parts that among users, among movies and between users and movies, then random walk will be conducted on such networks. We will compare these algorithms with other baselines like collaborative filtering, most popular, random select. Finally we will evaluate the performance of all these algorithms by several metrics like calculating precision, recall, coverage, popularity, hit number, RMSE at K.
+
+</ol>

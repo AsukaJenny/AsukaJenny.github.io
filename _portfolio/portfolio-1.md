@@ -1,6 +1,6 @@
 ---
 title: "Bibliometrics Network Analysis"
-excerpt: "Focus on 1972-2022 Pressure Ulcers or Pressure Injury or Decub Publications<br/><img src= '/images/keyword.png'>"
+excerpt: "Focus on 1972-2022 Pressure Ulcers Publications in Scopus, click the title to see more interactive network visualizations <br/><img src= '/images/keyword.png'>"
 collection: portfolio
 ---
 - Co-authorship Country Network 
