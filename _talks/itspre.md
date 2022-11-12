@@ -8,8 +8,8 @@ date: 2022-08-05
 location: "Ann Arbor, US"
 ---
 
-[presentation](https://drive.google.com/uc?export=download&id=17aAdRjbzwVfdnQOf7ki4ChMF7wDV5ECh)
-[poster](https://drive.google.com/uc?export=download&id=1oQMiIlM5GEiRh4jwzy33j36nePM2A4Mh)
+   <a onclick='window.open("https://drive.google.com/file/d/1VbRs2XvMhciHrGDjGok_QJ3G0yu3s-tR/view?usp=sharing","_blank")'>Presentation</a>
+   <a onclick='window.open("https://drive.google.com/file/d/1oQMiIlM5GEiRh4jwzy33j36nePM2A4Mh/view?usp=sharing","_blank")'>Poster</a>
 
 
 This is the oral presentation for research project: CEW+ Data Archive Alliance

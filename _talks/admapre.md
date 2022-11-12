@@ -8,6 +8,6 @@ date: 2020-12-13
 location: "Foshan, China"
 ---
 
-[presentation](https://drive.google.com/uc?export=download&id=1-P-qEc5mvXof0bChGzJqpOGWfc2zM95A)
+   <a onclick='window.open("https://drive.google.com/file/d/16IlA6YftQQPtfTMTqQnGaTie6WOpJ9ZW/view?usp=sharing","_blank")'>Presentation</a>
 
 This is the oral presentation for publication: Query-Based Recommendation by HIN Embedding with PRE-LSTM.

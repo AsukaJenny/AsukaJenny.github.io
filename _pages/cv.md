@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV Download Here](https://drive.google.com/uc?export=download&id=1LW0ZMFT34jNu_DLUB87aT7oYYBxdKBzG)
+ <a onclick='window.open("https://drive.google.com/file/d/1LW0ZMFT34jNu_DLUB87aT7oYYBxdKBzG/view?usp=sharing","_blank")'>Full CV</a>
 
 Education
 ======
