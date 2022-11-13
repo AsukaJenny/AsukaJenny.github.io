@@ -30,4 +30,4 @@ Last but not least, I believe my future research & work will make meaningful con
   <li> <b>[Nov, 2022]</b>. 📢 Right now I’m on my way starting the 23Fall PhD application cycle, and I’m also anticipating the incoming exicting 2022 FIFA World Cup, which is simultaneous with my own application as well and both are exicting! 🏆</li>
 </ul>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=180&t=m&d=1Zl140kYTvWEcNclLL-HAxtiEpzcvCsW_4uuVB1TFpk&co=2dad9c'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=280&t=m&d=1Zl140kYTvWEcNclLL-HAxtiEpzcvCsW_4uuVB1TFpk&co=2dad85&cmo=a753ff&cmn=cc3a45'></script>

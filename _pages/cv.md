@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
- <a onclick='window.open("https://drive.google.com/file/d/1LW0ZMFT34jNu_DLUB87aT7oYYBxdKBzG/view?usp=sharing","_blank")'>Full CV</a>
+ <a onclick='window.open("https://drive.google.com/file/d/1xqSOYLQTJ1379SbnaPxdB6iTxd-Eji7V/view?usp=sharing","_blank")'>Full CV</a>
 
 Education
 ======
@@ -53,8 +53,9 @@ Teaching & Mentoring
 Service & Leadership
 ======
 * 2019 Summer: Part-time Assistant, Remote, Boston Consulting Group
-    * Assisted with desk research, making cold calls and collecting first-hand product information through interviews
+    * Assisted in preparing materials for desk research, making cold calls and survey data collection
+    * Utilized think-cell to create various professional, precise charts in slides for presentation
 * 2017, 2018 Summer: Alumini Association Student Assistant, Sun-yat sen University
-    * Mentored 100+ students to interview alumni over 20+ cities
-    * Collected materials and archived documents
+    * Mentored over 100+ students to interview graduated alumni over 20+ cities working in industry and collected materials from alumni into archive
+    * Helped with administrative stuff in holding workshops, career fairs and invited graduated alumni back to campus to give talks with students
 
