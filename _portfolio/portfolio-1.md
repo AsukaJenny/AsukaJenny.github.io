@@ -3,6 +3,8 @@ title: "Bibliometrics Network Analysis"
 excerpt: "Focus on 1972-2022 Pressure Ulcers Publications in Scopus, click the title to see more interactive network visualizations <br/><img src= '/images/keyword.png'>"
 collection: portfolio
 ---
+Note: Due to the mechanism, sometimes the network visualizations could not show because of the error while reading VOSviewer JSON data: File cannot be found. I'm still working on finding a more stable way to show interactive network visualizations. You can also download and manually import [network data here](https://drive.google.com/uc?export=download&id=1NNSLUyaxrprhmHW383ykHSmw0lXssKNh) as well.
+
 - Co-authorship Country Network 
 
 <iframe
