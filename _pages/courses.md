@@ -10,19 +10,21 @@ author_profile: true
 
 # Relevant Courses
 
-**Math**: Mathematical Analysis I, II, III, Operational Research & Optimization Methods, Numerical Methods, Advanced Algebra, Algebra Structure, Ordinary Differential Equations, Differential Equations & Numerical Solutions, Discrete Math, Analytical Geometry
+**Math**: Mathematical Analysis I, II, III, Operational Research & Optimization Methods, Numerical Methods, Advanced Algebra, Algebra Structure, Ordinary Differential Equations, Differential Equations & Numerical Solutions, Discrete Math, Analytical Geometry, Introduction to Real Analysis \* 
 
 
-**Statistics**: Probability Distribution Theory, Statistical Inference, Linear Regression, Multivariate Analysis, Bayesian Inference, Stochastic Process, Computational Methods & Tools, Mathematical Statistics, Probability
+**Statistics**: Probability Distribution Theory, Statistical Inference, Linear Regression, Multivariate Analysis, Bayesian Inference, Stochastic Process, Computational Methods & Tools, Mathematical Statistics, Probability,  Practice and Communication in Applied Statistics \*, Methods and Theory of Sample Design \*
 
 
 **Computer Science**: Computer Programming I, II, Data Structure & Algorithms, Computer Organization, Operating System, Computer Network,  Digital Image Processing
 
 
-**Information Science**: Social Network Analysis, Machine Learning & Data Mining, Database Application Design, Information Security, Graph Theory & Applications, Information Theory & Coding, Cloud Computing
+**Information Science**: Social Network Analysis, Machine Learning & Data Mining, Database Application Design, Information Security, Graph Theory & Applications, Information Theory & Coding, Cloud Computing, Information Visualization \*, NLP Algorithm People \*
 
 
 **Social Science**: Foundation of Survey Methodology, Principles of Finance
+
+(\* means the course has been selected and expected to take next semester)
 
 # Courses Projects
 - STATS 503 - Statistical Learning II: Multivariate Analysis: Anticipating Costly Training

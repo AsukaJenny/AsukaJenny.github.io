@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
- <a onclick='window.open("https://drive.google.com/file/d/1xqSOYLQTJ1379SbnaPxdB6iTxd-Eji7V/view?usp=sharing","_blank")'>Full CV</a>
+ <a onclick='window.open("https://drive.google.com/file/d/1mRXQrPrg6ddHeQRDHUMtbrPeo_KE2lO9/view?usp=sharing","_blank")'>Full CV</a>
 
 Education
 ======
@@ -18,16 +18,16 @@ Education
 
 Research Experience
 ======
-* Fall 2022: Graduate Student Consultant at CSCAR, University of Michigan
-* Fall 2022: MI-LSAMP Research Assistant, University of Michigan
-* Summer 2022: CEW+ Research Assistant, University of Michigan
+* Fall 2022: Graduate Student Consultant at <a onclick='window.open("https://cscar.research.umich.edu/","_blank")'>CSCAR</a>, University of Michigan
+* Fall 2022: <a onclick='window.open("https://sites.soe.umich.edu/drpp/mi-lsamp-team-members/","_blank")'>MI-LSAMP</a> Research Assistant, University of Michigan
+* Summer 2022: <a onclick='window.open("http://www.cew.umich.edu/","_blank")'>CEW+</a> Research Assistant, University of Michigan
 * Winter 2022: Bibliometric Network Research Associate, University of Michigan
 * Fall 2019: Research Assistant at School of Data and Computer Science, Sun Yat-sen University
   
 
 Work Experience
 ======
-* Summer 2022: Business Intelligience Intern, Shared Services Center, University of Michigan
+* Summer 2022: <a onclick='window.open("https://its.umich.edu/internship/cohorts/2022/yumiao-hui","_blank")'>Business Intelligience Intern</a>, <a onclick='window.open("https://ssc.umich.edu/","_blank")'>Shared Service Center</a>, University of Michigan
 * Spring 2021: IT Solution Intern, Capgemini, Shenyang, China
 * Winter 2019: Data Analysis Intern, EY, Guangzhou, China
   
