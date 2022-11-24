@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
- <a onclick='window.open("https://drive.google.com/file/d/1mRXQrPrg6ddHeQRDHUMtbrPeo_KE2lO9/view?usp=sharing","_blank")'>Full CV</a>
+ <a onclick='window.open("https://drive.google.com/file/d/1HRt9bRsHFpVJuARgWn1C3oLiy0IU7O1a/view?usp=share_link","_blank")'>Full CV</a>
 
 Education
 ======
