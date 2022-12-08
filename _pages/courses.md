@@ -38,6 +38,8 @@ author_profile: true
 - SI 608 - Network: Network Movie Recommendation
 <a onclick='window.open("https://drive.google.com/file/d/1PLqBnn77fQsWeHWGTD5VMTNsajndTTTb/view?usp=sharing","_blank")'>Mid-time Report</a>
   <a onclick='window.open("https://drive.google.com/file/d/1-QfXc0oS76Lq3wHSudExWD7cMOD2xepO/view?usp=sharing","_blank")'> Mid-time Presentation</a>
+    <a onclick='window.open("https://drive.google.com/file/d/1pUAAaoRimVqkbQoFCV2O1xXW4QVJmhh9/view?usp=sharing","_blank")'> Final Report</a>
+       <a onclick='window.open("https://drive.google.com/file/d/1ysMjcAsV4tALkPCtfhaTbmXYsF4eXzkT/view?usp=sharing","_blank")'> Final Presentation</a>
 
 - SI 664 - Database Application Design
 <a onclick='window.open("https://yumiaohui.pythonanywhere.com/catalog/","_blank")'>Online Book Management System</a>
