@@ -45,8 +45,8 @@ author_profile: true
 <a onclick='window.open("https://yumiaohui.pythonanywhere.com/catalog/","_blank")'>Online Book Management System</a>
 
 - BIOSTAT 682 - Bayesian Inference: Bayesian
-Multinomial Logistic Regression on Breast Tissue Data
+Multinomial Logistic Regression on Breast Cancer Data
 <a onclick='window.open("https://drive.google.com/file/d/1ZOajmE5PeScEPQgkqlU6nDizIlENjDQ8/view?usp=sharing","_blank")'>Project Proposal</a>
-
+<a onclick='window.open("https://drive.google.com/file/d/1A3B828GwG2pv9en6evhf_MUA9Mq09EgF/view?usp=sharing","_blank")'>Final Report</a>
 
 
