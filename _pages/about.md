@@ -15,9 +15,9 @@ I enjoy music especially J-pop, movies and anime(アニメ)/manga(マンガ), no
 
 ## <i class="fa fa-book" aria-hidden="true"></i> Research Interest ##
 
-In general, I'm interested in cross-disciplinary research: Applications, Combinations & Intersections of Statistics, Information Science, Data Science and Survey Data Analysis, with a focus on Social Science/Education fields. To be specific, I list these 4 concentrations as follows:(although I think some of them are overlapped)
+In general, I'm interested in cross-disciplinary research: Applications, Combinations & Intersections of Statistics, Information Science, Data Science and Survey Data Analysis, with a focus on Social Science fields. To be specific, I list these 4 concentrations as follows:(although I think some of them are overlapped)
 1. Statistics: Machine Learning; Statistical Consulting; Sampling; Experiment Design
-2. Information Science: Social Network Analysis; Computional Social Science; Education Learning Technology; Science, Technology, and Society 
+2. Information Science: Social Network Analysis; Computional Social Science; Science, Technology, and Society 
 3. Data Science: Recommendation Systems; Natural Language Processing;
 4. Survey Data Analysis: Survey Design & Data Collection; Survey Data Mangagement; Analysis of Complex Survey Data; Missing Data Imputation
 
