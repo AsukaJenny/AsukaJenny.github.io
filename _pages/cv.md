@@ -13,7 +13,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Applied Statistics, University of Michigan, 2023 April(Expected)
+* Ph.D. in Statistics, University of Virginia, 2028 May(Expected)
+* M.S. in Applied Statistics, University of Michigan, 2023 April
 * B.S. in Information & Computing Science, Sun Yat-sen University, 2020 June
 
 Research Experience
