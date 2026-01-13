@@ -1,5 +1,5 @@
 ---
-title: "Measuring  Group Effect with Geographic Heterogeneity Using Complex Survey Data(In Progress Draft)"
+title: "Measuring  Group Effect with Geographic Heterogeneity Using Complex Survey Data(In-Progress Draft)"
 collection: publications
 permalink: /publication/image
 excerpt: "<img src= '/images/disparity.png'>"
