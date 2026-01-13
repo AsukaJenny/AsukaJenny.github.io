@@ -11,11 +11,8 @@ My name is Yumiao and I am currently 3rd Year <a onclick='window.open("https://s
 
 ## <i class="fa fa-book" aria-hidden="true"></i> Research Interest ##
 
-In general, I'm interested in cross-disciplinary research: Applications, Combinations & Intersections of Statistics, Information Science, Data Science, and Survey Data Analysis, with a focus on Social Science fields. To be specific, I list these 4 concentrations as follows:(although I think some of them overlap)
-1. Statistics: Spatial Data Analysis; Machine Learning; 
-2. Information Science: Social Network Analysis; Computational Social Science; 
-3. Data Science: Recommendation Systems; Natural Language Processing;Text Mining
-4. Survey Data Analysis: Analysis of Complex Survey Data; Missing Data Imputation
+ I'm interested in complex survey sampling design; non-parametric/semi-parametric models; spline smoothing; casual inference(Inverse probability weighting; Doubly Robust Estimators).
+
 
 Last but not least, I believe my future research & work will make meaningful contributions to promote Diversity, Equity & Inclusion in the community and I will spare no effort to fulfill my duty.
 ## <i class="fa fa-tag" aria-hidden="true"></i> Personal Interest ##
