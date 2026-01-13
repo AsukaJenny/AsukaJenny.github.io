@@ -11,8 +11,7 @@ My name is Yumiao and I am currently 3rd Year <a onclick='window.open("https://s
 
 ## <i class="fa fa-book" aria-hidden="true"></i> Research Interest ##
 
- I'm interested in complex survey sampling design; non-parametric/semi-parametric models; spline smoothing; casual inference(Inverse probability weighting; Doubly Robust Estimators).
-
+ I'm currently interested in complex survey sampling design; non-parametric/semi-parametric models; spline smoothing; casual inference(Inverse probability weighting; Doubly Robust Estimators). Previously I had some experience in image segmentation, recommendation systems.
 
 Last but not least, I believe my future research & work will make meaningful contributions to promote Diversity, Equity & Inclusion in the community and I will spare no effort to fulfill my duty.
 ## <i class="fa fa-tag" aria-hidden="true"></i> Personal Interest ##
