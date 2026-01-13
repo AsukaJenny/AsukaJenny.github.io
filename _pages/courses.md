@@ -22,7 +22,7 @@ author_profile: true
 **Information Science**: Social Network Analysis, Machine Learning & Data Mining, Database Application Design, Information Security, Graph Theory & Applications, Information Theory & Coding, Cloud Computing, Information Visualization \*, NLP Algorithm People \*
 
 
-**Social Science**: Foundation of Survey Methodology, Principles of Finance
+**Others**: Foundation of Survey Methodology, Principles of Finance
 
 (\* means the course has been selected and expected to take next semester)
 
