@@ -2,7 +2,7 @@
 title: "Measuring  Group Effect with Geographic Heterogeneity Using Complex Survey Data"
 collection: publications
 permalink: /publication/image
-excerpt: "<img src= '/images/im.png'>"
+excerpt: "<img src= '/images/disparity.png'>"
 date: 2026-01-13
 venue: ''
 paperurl: ''
