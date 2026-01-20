@@ -21,8 +21,6 @@ I enjoy music, especially J-pop, movies and anime/manga, novels by Agatha Christ
 
 <ul style="width: auto; height: 300px; overflow: auto">
   <li> <b>[Jan, 2026]</b>. 📢 I have received Honorable Mention in 2026 ASA SRMS/GSS/SSS Student Paper Competition.</li>
-</ul>
-<ul style="width: auto; height: 300px; overflow: auto">
   <li> <b>[Nov, 2022]</b>. 📢 Right now I’m on my way to starting the 23Fall PhD application cycle, and I’m also anticipating the exciting 2022 FIFA World Cup, which is simultaneous with my application as well and both are exciting! 🏆</li>
 </ul>
 
