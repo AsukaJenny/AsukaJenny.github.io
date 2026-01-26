@@ -7,16 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Yumiao and I am currently 3rd Year <a onclick='window.open("https://statistics.as.virginia.edu/people/yumiao-hui","_blank")'>PhD student in Statistics</a> at University of Virginia. Previously I was an Applied Statistics MS student at University of Michigan in 2023. I graduated from Sun Yat-sen University with a Bachelor of Science degree in Information & Computing Science in 2020. 
+My name is Yumiao, and I am currently a 3rd Year <a onclick='window.open("https://statistics.as.virginia.edu/people/yumiao-hui","_blank")'>PhD student in Statistics</a> at the University of Virginia. Previously, I was an Applied Statistics MS student at the University of Michigan in 2023. I graduated from Sun Yat-sen University with a Bachelor of Science degree in Information & Computing Science in 2020. 
 
 ## <i class="fa fa-book" aria-hidden="true"></i> Research Interest ##
 
- I'm currently interested in complex survey sampling design; non-parametric/semi-parametric models; spline smoothing; casual inference(Inverse probability weighting; Doubly Robust Estimators). Previously I had some experience in image segmentation, recommendation systems.
+ I'm currently interested in causal inference (Inverse probability weighting; doubly robust estimators), complex survey sampling designs, and semiparametric regression models. Previously, I had some experience in image segmentation and recommendation systems.
 
-Last but not least, I believe my future research & work will make meaningful contributions to promote Diversity, Equity & Inclusion in the community and I will spare no effort to fulfill my duty.
+Last but not least, I believe my future research & work will make meaningful contributions to promote Diversity, Equity & Inclusion in the community.
 ## <i class="fa fa-tag" aria-hidden="true"></i> Personal Interest ##
 
-I enjoy music, especially J-pop, movies and anime/manga, novels by Agatha Christie/Haruki Murakami. Besides, I like soccer best. In addition, I'm a huge fan of World History/Civilizations and could spend a whole day wandering in Museums. I am enthusiastic about learning new things and I like to discover cities and experience cultural diversity all over the world. 
+I enjoy music, especially J-pop (recently K-pop), movies, anime/manga, and novels by Agatha Christie/Haruki Murakami. Besides, I am also a soccer fan. In addition, I'm a huge fan of World History/Civilizations and could spend a whole day wandering in Museums. (Of course, Civilization 6 too). I am enthusiastic about learning new things and about discovering cities and experiencing cultural diversity all over the world. 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
