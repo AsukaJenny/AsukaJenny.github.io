@@ -11,7 +11,7 @@ My name is Yumiao, and I am currently a 3rd Year <a onclick='window.open("https:
 
 ## <i class="fa fa-book" aria-hidden="true"></i> Research Interest ##
 
- I'm currently interested in causal inference (Inverse probability weighting; doubly robust estimators), complex survey sampling designs, and semiparametric regression models. Previously, I had some experience in image segmentation and recommendation systems.
+ I'm currently interested in causal inference and doubly robust estimation, complex survey sampling designs, and semiparametric regression models. I also apply these methods in pharmacoepidemiology, building real-world evidence studies of drug safety and effectiveness that use new-user and target-trial-emulation designs, propensity score matching, and electronic health record and pharmacy claims data. Previously, I had some experience in image segmentation and recommendation systems.
 
 Last but not least, I believe my future research & work will make meaningful contributions to promote Diversity, Equity & Inclusion in the community.
 ## <i class="fa fa-tag" aria-hidden="true"></i> Personal Interest ##
