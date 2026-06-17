@@ -16,14 +16,14 @@ My name is Yumiao, and I am currently a 3rd Year <a onclick='window.open("https:
 Last but not least, I believe my future research & work will make meaningful contributions to promote Diversity, Equity & Inclusion in the community.
 ## <i class="fa fa-tag" aria-hidden="true"></i> Personal Interest ##
 
-I enjoy music, especially J-pop (recently K-pop), movies, anime/manga, and novels by Agatha Christie/Haruki Murakami. Besides, I am also a soccer fan. In addition, I'm a huge fan of World History/Civilizations and could spend a whole day wandering in Museums. (Of course, Civilization 6 too). I am enthusiastic about learning new things and about discovering cities and experiencing cultural diversity all over the world. 
+I enjoy music, especially J-pop (recently K-pop), movies, anime/manga, and novels by Agatha Christie/Haruki Murakami. Besides, I am also a soccer fan. In addition, I'm a huge fan of World History/Civilizations and could spend a whole day wandering in Museums. (Of course, Civilization 6 too). I am enthusiastic about learning new things, discovering cities, and experiencing cultural diversity all over the world. 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[Jun, 2026]</b>. 🏆 I am one of the Poster Award winners at the 2026 ICSA Applied Statistics Symposium.</li>
+  <li> <b>[Jun, 2026]</b>. 🏆 I won First Prize in the Poster Award competition at the 2026 ICSA Applied Statistics Symposium.</li>
   <li> <b>[Jun, 2026]</b>. ✈️ I received the 2026 ICSA Student Travel Award.</li>
   <li> <b>[Jan, 2026]</b>. 📢 I have received Honorable Mention in 2026 ASA SRMS/GSS/SSS Student Paper Competition.</li>
-  <li> <b>[Nov, 2022]</b>. 📢 Right now I’m on my way to starting the 23Fall PhD application cycle, and I’m also anticipating the exciting 2022 FIFA World Cup, which is simultaneous with my application as well and both are exciting! 🏆</li>
+  <li> <b>[Nov, 2022]</b>. 📢 Right now, I’m on my way to starting the 23Fall PhD application cycle, and I’m also anticipating the exciting 2022 FIFA World Cup, which is simultaneous with my application as well, and both are exciting! 🏆</li>
 </ul>
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=280&t=m&d=1Zl140kYTvWEcNclLL-HAxtiEpzcvCsW_4uuVB1TFpk&co=2dad85&cmo=a753ff&cmn=cc3a45'></script>
